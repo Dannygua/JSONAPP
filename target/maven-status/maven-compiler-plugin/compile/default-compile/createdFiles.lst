@@ -1,0 +1,6 @@
+com\mycompany\services\PersonalRest.class
+com\mycompany\session\PersonalFacade.class
+com\mycompany\services\ApplicationConfig.class
+com\mycompany\entidades\Personal.class
+com\mycompany\entidades\Personal_.class
+com\mycompany\session\AbstractFacade.class
